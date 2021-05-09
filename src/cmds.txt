@@ -1,0 +1,9 @@
+company_query –q 1 -p P9
+company_query –q 2 -p C Project
+company_query –q 3 -p HR Department
+company_query –q 4 -p HR Department , 100000
+company_query –q 5 -p p9
+company_query –q 6 -p 董事长
+company_query –q 7 -p P9, P96
+company_query –q 8 -p 10000
+company_query –q 9 -p 1, 4
